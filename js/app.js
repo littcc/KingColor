@@ -130,7 +130,7 @@ window.onload = function() {
     var gamePlay, Timer, keyResponse, temp, sys, timeOver,
         // Over = false,
         Play = false,
-        score_ = 38,
+        score_ = 0,
         base_ = localStorage.base || 0,
         calc = 0;
     score.innerHTML = base_ == 0 ? 0 : 'BASE&nbsp:&nbsp' + base_;
