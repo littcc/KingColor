@@ -5,4 +5,4 @@
 - 有时间会加入排行榜.
  
 # 在线版本
-- [@King's Color](http://www.littcc.com/Project/color)
+- [@King's Color](http://www.littcc.com/project/color/)
